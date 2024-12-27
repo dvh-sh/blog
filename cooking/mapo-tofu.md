@@ -1,6 +1,6 @@
 ---
 title: Mapo Tofu
-date: Thu Dec 26, 2024
+date: Fri Dec 20, 2024
 origin: Chinese
 type: Entrée
 ---
