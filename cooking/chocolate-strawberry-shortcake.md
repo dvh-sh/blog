@@ -1,6 +1,6 @@
 ---
 title: Chocolate Strawberry Shortcake
-date: Thu Dec 26, 2024
+date: Mon Dec 23, 2024
 origin: Europe
 type: Dessert
 ---
