@@ -1,6 +1,6 @@
 ---
 title: Gyoza
-date: Thu Dec 26, 2024
+date: Sun Dec 22, 2024
 origin: Japanese
 type: Side Dish
 ---
